@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Justingnat58
 - 👀 I’m interested in ... Data Analytics
-- 🌱 I’m currently learning at CNA Insurane
+- 🌱 I’m currently learning at CNA Insurance
 - 📫 How to reach me https://www.linkedin.com/in/justin-tang-806110176/
 
 <!---
