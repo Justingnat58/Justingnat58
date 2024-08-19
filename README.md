@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Justingnat58
-- 👀 I’m interested in ... Data Analytics
+- 👀 I’m interested in ... Business Technology, DevOps, Data Analytics
 - 🌱 I've graduated from DePaul University with a Management Information Systems Degree
 - 📫 How to reach me https://www.linkedin.com/in/justin-tang-806110176/
 
